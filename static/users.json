@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "user":"zhangsan",
+            "pwd":123456
+        },
+        {
+            "user":"lisi",
+            "pwd":123456
+        },
+        {
+            "user":"wangwu",
+            "pwd":123456
+        }
+    ]
+}
